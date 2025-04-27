@@ -1,0 +1,6 @@
+@NurseryApp_HostAddress = http://localhost:5230
+
+GET {{NurseryApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
